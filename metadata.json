@@ -1,0 +1,8 @@
+{
+  "name": "Sparkle & Shine Yonkers",
+  "description": "A friendly and professional house cleaning service website for Yonkers, NY, featuring a smart estimate tool and an AI-powered cleaning assistant.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
